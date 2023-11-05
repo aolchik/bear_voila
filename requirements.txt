@@ -1,4 +1,4 @@
-pytorch-cpu==2.0.0
+http://download.pytorch.org/whl/cpu/torch-2.0.0-cp311-none-macosx_10_9_x86_64.whl#sha256=01858620f25f25e7a9ec4b547ff38e5e27c92d38ec4ccba9cfbfb31d7071ed9c
 http://download.pytorch.org/whl/cpu/torchvision-0.15.2%2Bcpu-cp311-cp311-linux_x86_64.whl#sha256=1633c0b7ead69d2cd3fbe8aeaa146c76a68691bd3599facfffd2da925973e044
 voila
 fastai>=2
