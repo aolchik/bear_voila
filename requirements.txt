@@ -1,8 +1,8 @@
-pytorch==2.0.0+cpu
-torchvision==0.15.2+cpu
+pytorch-cpu==2.0.0
+http://download.pytorch.org/whl/cpu/torchvision-0.15.2%2Bcpu-cp311-cp311-linux_x86_64.whl#sha256=1633c0b7ead69d2cd3fbe8aeaa146c76a68691bd3599facfffd2da925973e044
 voila
 fastai>=2
-pillow<7
+pillow
 packaging
-ipywidgets==7.5.1
+ipywidgets>=7.5.1
 solara
