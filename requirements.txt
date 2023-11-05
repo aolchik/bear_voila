@@ -1,4 +1,4 @@
-torch==2.0.0+cpu
+pytorch==2.0.0+cpu
 torchvision==0.15.2+cpu
 voila
 fastai>=2
