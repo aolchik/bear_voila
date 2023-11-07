@@ -13,3 +13,4 @@ Deploy to Heroku
   Heroku documentation about the slug size problem - https://devcenter.heroku.com/articles/slug-compiler#slug-size
   Fast.ai instructions on how to deploy to Heroku - https://course20.fast.ai/deployment_heroku
   Almost there, 501.1M
+  Import model from AWS and remove from Gihub
